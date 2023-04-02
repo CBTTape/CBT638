@@ -1,0 +1,11 @@
+2023-04-03 01:35:52.606063 - Initialized conversion of CBT638
+2023-04-03 01:35:52.701994 - Received CBT.V504.FILE638.PDS from FILE638.XMI 
+2023-04-03 01:35:52.704657 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:35:52.705861 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:35:52.706931 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/$$NOTE2
+2023-04-03 01:35:52.708062 - Found @FILE638.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/@FILE638
+2023-04-03 01:35:52.709141 - Found @INSTALL.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/@INSTALL
+2023-04-03 01:35:52.710122 - Found @USERGDE.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/@USERGDE
+2023-04-03 01:35:52.711148 - Found COMPILE.jcl (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/COMPILE
+2023-04-03 01:35:52.712281 - Found EMAILENC.txt (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/EMAILENC
+2023-04-03 01:35:52.713371 - Found SENDMAIL.rexx (text/plain) in CBT.V504.FILE638.PDS, moved to PDS/SENDMAIL
