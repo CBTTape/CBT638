@@ -1,0 +1,11 @@
+2023-08-06 06:11:43.810472 - Initialized conversion of CBT638
+2023-08-06 06:11:43.905705 - Received CBT.V505.FILE638.PDS from FILE638.XMI 
+2023-08-06 06:11:43.908089 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:11:43.909064 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:11:43.910017 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/$$NOTE2
+2023-08-06 06:11:43.910965 - Found @FILE638.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/@FILE638
+2023-08-06 06:11:43.912009 - Found @INSTALL.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/@INSTALL
+2023-08-06 06:11:43.912847 - Found @USERGDE.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/@USERGDE
+2023-08-06 06:11:43.913755 - Found COMPILE.jcl (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/COMPILE
+2023-08-06 06:11:43.914812 - Found EMAILENC.txt (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/EMAILENC
+2023-08-06 06:11:43.915716 - Found SENDMAIL.rexx (text/plain) in CBT.V505.FILE638.PDS, moved to PDS/SENDMAIL
